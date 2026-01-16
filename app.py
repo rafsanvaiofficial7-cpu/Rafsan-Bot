@@ -38,7 +38,7 @@ Hr = {
     'Expect': "100-continue",
     'X-Unity-Version': "2018.4.11f1",
     'X-GA': "v1 1",
-    'ReleaseVersion': "OB51"}
+    'ReleaseVersion': "OB52"}
 
 # ---- Random Colores ----
 def get_random_color():
@@ -593,9 +593,9 @@ async def MaiiiinE():
     global loop, key, iv, region, BOT_UID
 
     # BOT LOGIN UID
-    BOT_UID = int('13953646518')  # <-- FIXED BOT UID
+    BOT_UID = int('14431959443')  # <-- FIXED BOT UID
 
-    Uid, Pw = '4307575761', '056D89FF70471CEC5468230CD18C1CEF53B16CF51AF1B22E89E4A9B80FD2976F'
+    Uid, Pw = '4405730098', 'RAFSAN_2SXDB_BY_KRSXH_NVRDIE_RP566'
 
     open_id, access_token = await GeNeRaTeAccEss(Uid, Pw)
     if not open_id or not access_token:
